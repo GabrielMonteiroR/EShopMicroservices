@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Services/" />
   <Folder Name="/Services/Catalog/">
+    <File Path="readme.md" />
     <Project Path="../src/Services/Catalog/Catalog.API/Catalog.API.csproj" />
   </Folder>
 </Solution>
