@@ -33,3 +33,6 @@ Object-Relational Mapping (ORM) is a programming technique that allows developer
 
 ###### Pipeline
 Caller -> Request -> MediatR -> Pre processor behavior -> Handler -> Post processor behavior -> Response -> Caller
+
+<img width="639" height="371" alt="Captura de tela 2025-09-29 132513" src="https://github.com/user-attachments/assets/e7a34536-bdea-40e9-a7a0-85b9e3eae0ef" />
+
